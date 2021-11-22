@@ -2,7 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 View the live website here: https://advice-zone.netlify.app/ \
-Feel free to star the repo, it really helps!
+Feel free to give a star ⭐ the repo, it really helps!
+
+Preview: \
+![Screenshot 2021-11-22 212747](https://user-images.githubusercontent.com/80385434/142869768-7d8a948b-27d0-4340-86cc-13ce689c66f3.png)
 
 ## Available Scripts
 
